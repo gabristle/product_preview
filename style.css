@@ -37,39 +37,54 @@ header .conteudo .product_image {
     height: 375px;
 }
 
-header .product_informations {
+header .conteudo .product_informations {
+    padding: 25px;
     width: 250px;
     color: hsl(228, 12%, 48%);
+    text-align: left;
+    
 }
 
-.product_type {
+header .conteudo .product_informations .product_type {
+    font-size: 12px;
     font-family: 'Montserrat', sans-serif;
 }
 
-.product_name {
+header .conteudo .product_informations .product_name {
     font-family: 'Fraunces', serif;
-    color: hsl(212, 21%, 14%)
+    color: hsl(212, 21%, 14%);
+
 }
 
-.product_description {
+header .conteudo .product_informations .product_description {
     font-family: 'Montserrat', sans-serif;
+    font-size: 12px;
 }
 
-.product_price {
+header .conteudo .product_informations .prices {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+}
+header .conteudo .product_informations .prices .product_price {
     font-family: 'Fraunces', serif;
     color: hsl(158, 36%, 37%);
 }
 
-.product_old_price {
+header .conteudo .product_informations .prices .product_old_price {
     font-family: 'Montserrat', sans-serif;
     text-decoration: line-through;
 }
 
 button {
+    height: 40px;
+    width: 190px;
     background-color: hsl(158, 36%, 37%);
     color: white;
     border: none;
     font-family: 'Montserrat', sans-serif;
+    border-radius: 5px;
 }
 
 footer .attribution { 
