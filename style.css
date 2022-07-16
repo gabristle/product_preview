@@ -26,7 +26,6 @@ header .conteudo {
     background-color: white;
     display: flex;
     flex-direction: row;
-    align-items: center;
     justify-content: center;
     border-radius: 15px;
 }
@@ -42,10 +41,11 @@ header .conteudo .product_informations {
     width: 250px;
     color: hsl(228, 12%, 48%);
     text-align: left;
-    
 }
 
 header .conteudo .product_informations .product_type {
+    display: flex;
+    margin-bottom: 15px;
     font-size: 12px;
     font-family: 'Montserrat', sans-serif;
 }
@@ -53,12 +53,14 @@ header .conteudo .product_informations .product_type {
 header .conteudo .product_informations .product_name {
     font-family: 'Fraunces', serif;
     color: hsl(212, 21%, 14%);
-
 }
 
 header .conteudo .product_informations .product_description {
     font-family: 'Montserrat', sans-serif;
     font-size: 12px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    line-height: 20px;
 }
 
 header .conteudo .product_informations .prices {
@@ -78,6 +80,12 @@ header .conteudo .product_informations .prices .product_old_price {
 }
 
 button {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 15px;
     height: 40px;
     width: 190px;
     background-color: hsl(158, 36%, 37%);
