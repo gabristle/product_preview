@@ -110,8 +110,7 @@ button {
 
 /*stylizing the button when the hover is in it*/
 button:hover{
-    background-color: white;
-    color: hsl(158, 36%, 37%);
+    background-color: hsl(159, 35%, 21%);
 }
 
 /*stylizing the atribution part*/
