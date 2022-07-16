@@ -1,5 +1,13 @@
+/*
+    @author: Gabriella Costa (gabristle);
+    @date: 16/07/2022;
+    @project: Product Preview Challenge of Frontend Mentor;
+*/
+
+/*importing fonts*/
 @import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,700&family=Montserrat:wght@500;700&display=swap');
 
+/*reset the predefinitions*/
 * {
     margin: 0;
     padding: 0;
@@ -7,11 +15,13 @@
     text-decoration: none;
 }
 
+/*all the body of the page*/
 body {
     font-size: 14px;
     background-color: hsl(30, 38%, 92%);
 }
 
+/*all the principal content*/
 header {
     height: 100%;
     width: 100%;
@@ -53,14 +63,15 @@ header .conteudo .product_informations .product_type {
 header .conteudo .product_informations .product_name {
     font-family: 'Fraunces', serif;
     color: hsl(212, 21%, 14%);
+    line-height: 30px;
 }
 
 header .conteudo .product_informations .product_description {
     font-family: 'Montserrat', sans-serif;
     font-size: 12px;
-    margin-top: 15px;
-    margin-bottom: 15px;
-    line-height: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    line-height: 18px;
 }
 
 header .conteudo .product_informations .prices {
@@ -79,6 +90,7 @@ header .conteudo .product_informations .prices .product_old_price {
     text-decoration: line-through;
 }
 
+/*stylizing the button*/
 button {
     display: flex;
     flex-direction: row;
@@ -87,19 +99,35 @@ button {
     gap: 10px;
     margin-top: 15px;
     height: 40px;
-    width: 190px;
+    width: 198px;
     background-color: hsl(158, 36%, 37%);
     color: white;
     border: none;
     font-family: 'Montserrat', sans-serif;
     border-radius: 5px;
+    cursor: pointer; 
 }
 
-footer .attribution { 
+/*stylizing the button when the hover is in it*/
+button:hover{
+    background-color: white;
+    color: hsl(158, 36%, 37%);
+}
+
+/*stylizing the atribution part*/
+.attribution {
+    color: hsl(212, 21%, 14%);
+    font-family: 'Montserrat', sans-serif;
     font-size: 11px; 
     text-align: center; 
+    cursor: pointer;
 }
 
-footer .attribution a {
-     color: hsl(228, 45%, 44%); 
+/*stylizing the link part*/
+.attribution a {
+    color: hsl(158, 36%, 37%);
+}
+
+.attribution a:hover{
+    color: white;
 }
