@@ -12,19 +12,9 @@ body {
     background-color: hsl(30, 38%, 92%);
 }
 
-.content {
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: center;
-}
-
-.product_image{
-    width: 375px;
-}
-
 .attribution { 
-    font-size: 11px; text-align: center; 
+    font-size: 11px; 
+    text-align: center; 
 }
 
 .attribution a {
