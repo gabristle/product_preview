@@ -28,6 +28,7 @@ Users should be able to:
 ### Screenshot
 
 ![](images/final_solution.png)
+![](images/final_solution_hover.png)
 
 ### Links
 
