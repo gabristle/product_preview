@@ -53,6 +53,7 @@ Users should be able to:
 
 - [CSS Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - This amazing article helped me with flexbox on CSS
 - [Rafaella Ballerini](https://www.youtube.com/c/rafaellaballerini) - Watching her videos helped me on many questions and inspired me
+- [Rocketseat](https://www.youtube.com/c/RocketSeat) - The videos are very didatic, helping me with a lot of doubts on responsiveness
 
 ## Author
 
