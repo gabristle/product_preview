@@ -40,12 +40,15 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 
 ### What I learned
 
-### Continued development
+  I've studied html and css primarily when i was 13 years old, stayed without studying a lot of time, until this year. I'm studying again and this is my first project, i'm very happy with the results. I remembered and learned new things about those languages and what i learned more is how works to make responsive pages, the units to do layouts fixed and fluid and other properties of this theme.
 
+### Continued development
+  
+  
+  
 ### Useful resources
 
 - [CSS Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - This amazing article helped me with flexbox on CSS
