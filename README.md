@@ -54,7 +54,7 @@ Users should be able to:
 
 ### Continued development
   
-  
+  The solution is very similar to the orignal, but i think that the way i made is not the best way. To my next projects i will focus on use other unitys of CSS, to make responsive pages more easy and proportional.
   
 ### Useful resources
 
