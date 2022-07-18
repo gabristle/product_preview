@@ -29,7 +29,7 @@ Users should be able to:
 
 ## Desktop
 
-![](images/final_solution.png)
+![](images/final_solution_desktop.png)
 ![](images/final_solution_hover.png)
 
 ## Mobile
