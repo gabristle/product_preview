@@ -27,12 +27,18 @@ Users should be able to:
 
 ### Screenshot
 
+## Desktop
+
 ![](images/final_solution.png)
 ![](images/final_solution_hover.png)
 
+## Mobile
+
+![](images/final_solution_mobile.png)
+
 ### Links
 
-- Solution URL: []()
+- Solution URL: [Product Preview Card by gabristle](https://gabristle.github.io/product_preview/)
 
 ## My process
 
