@@ -27,12 +27,12 @@ Users should be able to:
 
 ### Screenshot
 
-## Desktop
+#### - Desktop
 
 ![](images/final_solution_desktop.png)
 ![](images/final_solution_hover.png)
 
-## Mobile
+#### - Mobile
 
 ![](images/final_solution_mobile.png)
 
