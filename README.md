@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: []()
+- Solution URL: [https://gabristle.github.io/product_preview/](https://gabristle.github.io/product_preview/)
 
 ## My process
 
